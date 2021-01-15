@@ -15,7 +15,7 @@ body {
 	justify-items: center;
 }
 .list {
-  display: flex;
+	display: flex;
 	flex-direction: column;
 	align-self: center;
 	width: 300px;
@@ -26,7 +26,7 @@ body {
 	box-shadow: 30px 55px 20px rgba(80, 5, 36, 0.315);
 }
 .btn {
-  border-radius: 5px;
+	border-radius: 5px;
 
 	border-style: none;
 
