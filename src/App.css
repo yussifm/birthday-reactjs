@@ -36,7 +36,8 @@ body {
 	background-color: #f0699c;
 }
 article {
-	flex-direction: column;
+	display: flex;
+	flex-direction: row;
 	align-content: flex-start;
 	justify-content: space-evenly;
 	}

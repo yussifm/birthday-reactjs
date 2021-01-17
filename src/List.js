@@ -13,7 +13,6 @@ const List = ({ people }) => {
 						<div className="card">
 							<h4>{name}</h4>
 							<p>{age} years</p>
-
 						</div>
 						
 						
