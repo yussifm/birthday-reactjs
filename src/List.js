@@ -9,9 +9,8 @@ const List = ({ people }) => {
 				const { id, name, age, image } = person;
 				return (
 					<article key={id} >
+						<img src={image} alt={name} />
 						<div className="card">
-							
-							<img src={image} alt={name} />
 							<h4>{name}</h4>
 							<p>{ age}</p>
 
