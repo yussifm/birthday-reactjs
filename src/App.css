@@ -37,6 +37,7 @@ body {
 	color: white;
 	bottom: 0%;
 	background-color: #f0699c;
+	margin-bottom: 5px;
 }
 article {
 	display: flex;
