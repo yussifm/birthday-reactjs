@@ -9,7 +9,7 @@ const List = ({ people }) => {
 				const { id, name, age, image } = person;
 				return (
 					<article key={id} >
-						<img src={image} alt={name} />
+						<img src={ image} alt={name} />
 						<div className="card">
 							<h4>{name}</h4>
 							<p>{age} years</p>
